@@ -1,0 +1,7 @@
+Task 1 : Analysing the Data
+Follow the instructions provided in the lesson video and analyse the data and also print the analysis. After successfully running the application, submit it. The file used in the lesson is provided here - edufect.csv
+
+Task 2 : Analysing the details of shopping cart
+Analyse the shopping cart data ( as given in the CSV file) and print the mean, min and max of ProdCount, ItemCount, TotalPrice, Discount and NetPrice. After successfully running the application, submit it.
+
+The file to be used is provided here - shopping-cart.csv

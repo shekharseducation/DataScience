@@ -1,0 +1,15 @@
+Task 1 : Reading a CSV File
+Follow the instructions provided in the lesson video and read the CSV file and print its contents. After successfully running the application, submit it. The file used in the lesson is provided here - edufect.csv
+
+Task 2 : Reading the details of shopping cart from a CSV file
+The CSV file contains the details of the various orders placed on an e-commerce site. Each line of the file contains the following information :
+CartId : the id of the cart
+ProdCount : the count of the different products in the cart
+ItemCount : the total number of items in the cart
+TotalPrice : the total price of the items in the cart, before discount
+Discount : the total discount applicable on the cart
+NetPrice : the total price of the cart after discount
+
+Read the CSV file and print its contents. After successfully running the application, submit it.
+
+The file to be used is provided here - shopping-cart.csv

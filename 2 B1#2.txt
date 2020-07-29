@@ -1,0 +1,15 @@
+Task 1 : Handling the data from the CSV File
+Follow the instructions provided in the lesson video and modify the data from the CSV file. After successfully running the application, submit it. The file used in the lesson is provided here - edufect.csv
+
+Task 2 : Handling the data of the shopping cart CSV file
+The CSV file contains the details of the various orders placed on an e-commerce site. Each line of the file contains the following information (along with the data type):
+CartId : the id of the cart : int
+ProdCount : the count of the different products in the cart : int
+ItemCount : the total number of items in the cart : int
+TotalPrice : the total price of the items in the cart, before discount : int
+Discount : the total discount applicable on the cart : int
+NetPrice : the total price of the cart after discount : int 
+
+After reading the CSV file, modify the data so that it contains numbers instead of strings. Print the modified data. After successfully running the application, submit it.
+
+The file to be used is provided here - shopping-cart.csv

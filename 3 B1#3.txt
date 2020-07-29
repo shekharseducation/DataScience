@@ -1,0 +1,8 @@
+Task 1 : Manipulating data
+When the data is read from the CSV file, it creates a dictionary with each entry in the dictionary corresponding to a line in the CSV file. As instructed in the lesson, create a new dictionary, in which the data is organised on the basis of product. So the new dictionary has three dictionaries, one corresponding to each product. And then in this product specific dictionary, the data has been organised with the key as the day and the value is the sales for that day.
+Follow the instructions provided in the lesson video and read the CSV file and print its contents. After successfully running the application, submit it. The file used in the lesson is provided here - edufect.csv
+
+Task 2 : Manipulating the data from the Shopping Cart CSV file
+After reading the CSV file, create a new dictionary which has 5 entries (corresponding to ProdCount, ItemCount, TotalPrice, Discount and NetPrice). Each of these entries is also a dictionary having key as CartId and value as the one to the corresponding value. After creating them, print the whole dictionary.
+
+The file to be used is provided here - shopping-cart.csv

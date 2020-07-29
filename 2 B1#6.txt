@@ -1,0 +1,17 @@
+Task 1 : Bar charts
+Follow the instructions provided in the lesson video and plot the stacked bar charts. After successfully running the application, submit it. The file used in the lesson is provided here - edufect.csv
+
+Task 2 : Plotting the daily traffic of a website
+The CSV file contains the details of the daily traffic of a website. Each line of the file contains the following information :
+DayNo : The day number
+Home : The number of visitors on the home page
+Prod1 : The number of visitors on the Prod1 page
+Prod2 : The number of visitors on the Prod2 page
+Sales : The number of visitors on the Sales page
+Refer : The number of visitors on the Refer page
+All the values in the file are integers.
+ 
+
+Read the CSV file and plot the daily traffic of each page as a stacked bar chart. The X axis is the day number and on the Y axis is the daily traffic for a page. After successfully running the application, submit it.
+
+The file to be used is provided here - daily-traffic.csv
